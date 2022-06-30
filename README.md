@@ -30,4 +30,4 @@ just practice of using right project structure
 - simple and vector ways of training
 - use dataset "digits" from sklearn
 
-more details for this task in `homework7.txt`
+more details for this task in `task7/homework7.txt`
